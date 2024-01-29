@@ -1,0 +1,2 @@
+var arrSite = ['', 'trendszine.com', 'www.peacenlove100.com', 'cosblay.com', 'asiangirls.top', 'en.jrants.com', '6sex.maulon.pro', 'www.anhsex18.com',  'chinagirlclub.com', 'hotgirlchina.com', 'bestgirlsexy.com', 'hotgirl.biz', 'goddess247.com', 'pibys.win', 'cutexinh.com', 'babeasia.com'];
+var arrName = ['', 'TrendsZine', 'PeacenLove100', 'CosBlay', 'AsianGirls', 'JRants', 'Maulon', 'AnhSex18', 'ChinaGirlClub', 'HotGirlChina', 'BestGirlSexy', 'HotGirl', 'Goddess247', 'Pibys', 'CuteXinh', 'BabeAsia'];
